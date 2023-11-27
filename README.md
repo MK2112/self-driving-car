@@ -1,5 +1,5 @@
 # CarND [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-A repository with my assignments for Udacity's [Self-Driving Car Engineer Nanodegree program](https://udacity.com/drive).
+My assignments for Udacity's [Self-Driving Car Engineer Nanodegree program](https://udacity.com/drive).
 
 
 ## Term 1: Computer Vision, Deep Learning, and Sensor Fusion
